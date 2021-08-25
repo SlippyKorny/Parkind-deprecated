@@ -48,7 +48,7 @@ exit
 
 ## Notice
 
-The project is still in the workings - most of the features are not implemented yet.
+The project is on hiatus.
 
 ## Description
 
